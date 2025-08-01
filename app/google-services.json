@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369453169961",
+    "project_id": "proteinhub-a0336",
+    "storage_bucket": "proteinhub-a0336.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369453169961:android:b4339b8c7f5b741ee4cb38",
+        "android_client_info": {
+          "package_name": "com.example.proteinhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTEv01ZQvF6EPIaBvQVNgbcGh-AapyqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
