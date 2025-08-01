@@ -115,7 +115,7 @@ fun DashboardScreen(navController: NavController, medexViewModel: MedexViewModel
                         modifier = Modifier.padding(24.dp),
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
-                        Icon(Icons.Filled.History, contentDescription = "Sales History", tint = Color(0xFF388E3C), modifier = Modifier.height(40.dp))
+                        Icon(Icons.Filled.History, contentDescription = "Sales History!", tint = Color(0xFF388E3C), modifier = Modifier.height(40.dp))
                         Spacer(modifier = Modifier.height(8.dp))
                         Text("View Sales History", style = MaterialTheme.typography.titleMedium)
                     }
